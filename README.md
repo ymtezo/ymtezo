@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on collect AI use!
+- 🌱 I’m currently learning some flameworks and searching open-source good tools!
+- 👯 I’m looking to collaborate on some new app idea
+- 🤔 I’m looking for help with about above things
+- 💬 Ask me about Management and some funny talk
+- 📫 How to reach me: ?
+- 😄 Pronouns:Japanese , English, Deautschen
 <!--
 **ymtezo/ymtezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
