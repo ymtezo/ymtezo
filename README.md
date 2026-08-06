@@ -35,7 +35,7 @@ Swipe right (👉 Like) if you're interested!
 ---
 
 ### 📱 [task_swiper](https://github.com/ymtezo/task_swiper) (🌐 Public Relationship / 公開)
-*   **Dating Name**: `task_swiper | タスク仕分け人 (Tinder風)` / `task_swiper | The Tinder for Task Management`
+*   **Dating Name**: `task_swiper | タスク仕分け人 (マッチングアプリ風)` / `task_swiper | The Dating App Style Task Manager`
 *   **Dating Status**:
     *   🇺🇸 **Hobbies**: Gesture swiping, 60/60 E2E green tests, emotion badges.
     *   🇯🇵 **趣味**: スワイプジェスチャー、60項目E2Eテスト全パス、感情バッジ。
