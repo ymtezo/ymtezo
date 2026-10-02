@@ -106,6 +106,18 @@ Swipe right (👉 Like) if you're interested!
 
 ---
 
+### 🏊 [tokyo-23-pools](https://github.com/ymtezo/tokyo-23-pools) (🌐 Public Relationship / 公開) — [Live Map](https://ymtezo.github.io/tokyo-23-pools/)
+*   **Dating Name**: `tokyo-23-pools | 深夜まで泳がせる女` / `tokyo-23-pools | The Late-Night Swimmer's Atlas`
+*   **Dating Status**:
+    *   🇺🇸 **Hobbies**: Leaflet mapping, closing-time color coding, official-address geocoding.
+    *   🇯🇵 **趣味**: Leafletマッピング、最終終了時刻の色分け、公式住所を国土地理院で精密測位。
+*   **Description**:
+    *   🇺🇸 "I map 111 public pools across Tokyo's 23 wards—ward-run, metropolitan, and national. I care about one thing above all: how late you can swim. Sort by closing time, filter out seasonal/school pools, and I'll flag every facility whose hours changed since the source article."
+    *   🇯🇵 「東京23区の公共プール111施設を地図に網羅（区営・都営・国営・都立公園）。私が一番重視するのは『何時まで泳げるか』だけ。終了時刻順ソート、期間限定・学校開放プールの絞り込み、掲載元記事から変わった営業時間には全部フラグを立てます。」
+*   **Tech Stack**: Leaflet.js (self-contained, no CDN), Python build pipeline, GSI/Overpass/Nominatim geocoding, GeoJSON/KML export, GitHub Pages.
+
+---
+
 ## 🛠️ Matchmaking Tech Stack / 相性の良い技術スタック
 *   **Languages**: TypeScript/JavaScript, Python, PowerShell, SQL (PostgreSQL/Supabase).
 *   **Frameworks**: React, Next.js, Vite, React Native, Tailwind CSS.
