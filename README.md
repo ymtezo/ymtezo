@@ -1,29 +1,40 @@
 # Hiroaki Yamato / 大和 弘明
 
-GIS・人流・都市データ分析で地域課題の解決を研究する学部生。
-Undergraduate student researching GIS, human mobility, and urban data analysis for community-driven city planning.
+**リポジトリ案内所**。作ったものを目的別にまとめています。
+A guided index of my repositories, organized by what each is for.
 
-- 大阪公立大学 在学中 → 東京大学大学院 修士課程 受験予定（2027冬入試）
-- 関心： 人流解析 / 参加型GIS / 地域施策の因果推論評価 / コミュニティデータ
-- LLMエンジニア @ Arcra
+GIS・人流・都市データで地域の問いを研究したい学部生（大阪公立大学）。LLMエンジニア @ Arcra。
+詳しい活動は [Portfolio](https://ymtezo.github.io) へ。
 
-## Selected Work
+---
 
-| Project | What it is | Stack |
-|---|---|---|
-| [location-analysis](https://github.com/ymtezo/location-analysis) | ららぽーと vs イオンモール立地比較： 記述統計・因果推論・数理最適化で新規出店候補地を提案 | Python, GeoPandas, statsmodels, PuLP, folium |
-| [causal-inference-r-lab](https://github.com/ymtezo/causal-inference-r-lab) | 計量経済学・因果推論の R 実装集（IV / 地理RDD / ランダム化推論 / コライダーバイアス シミュレーション + J1×地域統計データ） | R |
-| [ptcg-battle-arena](https://github.com/ymtezo/ptcg-battle-arena) | Kaggle「PTCG AI Battle Challenge」: 自作ルールエンジン + ゲーム理論Minimaxエージェント + writeup | Python |
-| [room-wind-sim](https://github.com/ymtezo/room-wind-sim) | ブラウザ完結2D通風シミュレータ（LBM D2Q9ソルバー自前実装・Web Worker） | JavaScript |
-| [tokyo-23-pools](https://github.com/ymtezo/tokyo-23-pools) | 東京23区 公共プール111施設のインタラクティブマップ | Leaflet, 国土地理院API |
-| [natural-japanese](https://github.com/ymtezo/natural-japanese) | AI文章の機械検出 Agent Skill（sudachipy形態素解析による決定的lint） | Python |
-| [conlang-analysis](https://github.com/ymtezo/conlang-analysis) | 人工言語「Veya」の設計→生成→計量分析パイプライン（音節規則・Zipf・コーパス統計） | Python, R |
+## 📊 研究・データ分析
 
-## Stack
+| repo | 内容 |
+|---|---|
+| [location-analysis](https://github.com/ymtezo/location-analysis) | ららぽーと vs イオンモールの立地比較。記述統計・因果推論・数理最適化で出店候補地を提案（Python / GeoPandas / statsmodels / PuLP / folium） |
+| [causal-inference-r-lab](https://github.com/ymtezo/causal-inference-r-lab) | 計量経済学・因果推論の R 実装演習集（IV / マッチング / ランダム化推論などシミュレーション） |
+| [conlang-analysis](https://github.com/ymtezo/conlang-analysis) | 人工言語「Veya」の設計→語彙生成→コーパス統計（TTR・音素頻度・Zipf）を可視化（Python + R） |
 
-Python (pandas / GeoPandas / statsmodels / PuLP) · R（実証分析・GISプロット）· TypeScript · Kotlin · Jupyter · Docker
+## 🗺️ 地図・GIS・可視化
+
+| repo | 内容 |
+|---|---|
+| [tokyo-23-pools](https://github.com/ymtezo/tokyo-23-pools) | 東京23区 公共プール111施設のインタラクティブマップ（Leaflet・国土地理院APIジオコーディング） |
+
+公開マップ群（特急ネットワーク運行頻度 / 国会図書館20分等時圏 / 未成線シナリオ / 空港×鉄道）はサイト側に集約 → **[Works](https://ymtezo.github.io/works.html)**
+
+## ⚙️ エンジン・シミュレーション・ツール
+
+| repo | 内容 |
+|---|---|
+| [ptcg-battle-arena](https://github.com/ymtezo/ptcg-battle-arena) | Kaggle コンペ用：ポケカ対戦ルールエンジン自作＋ゲーム理論Minimaxエージェント＋writeup（Python） |
+| [room-wind-sim](https://github.com/ymtezo/room-wind-sim) | ブラウザ完結2D通風シミュレータ。窓×風向きの換気量を計算（LBM D2Q9・Web Worker） |
+| [natural-japanese](https://github.com/ymtezo/natural-japanese) | 日本語文章のAI臭を機械検出する Agent Skill（sudachipy形態素解析） |
+
+---
 
 ## Links
 
-- Portfolio: https://ymtezo.github.io
-- note: https://note.com/tsunagu_umidasu
+- **Portfolio / Works**: [ymtezo.github.io](https://ymtezo.github.io)
+- **note**: [tsunagu_umidasu](https://note.com/tsunagu_umidasu) · **X**: [@enishi_emishi](https://x.com/enishi_emishi)
