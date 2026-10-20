@@ -17,6 +17,7 @@ Undergraduate student researching GIS, human mobility, and urban data analysis f
 | [room-wind-sim](https://github.com/ymtezo/room-wind-sim) | ブラウザ完結2D通風シミュレータ（LBM D2Q9ソルバー自前実装・Web Worker） | JavaScript |
 | [tokyo-23-pools](https://github.com/ymtezo/tokyo-23-pools) | 東京23区 公共プール111施設のインタラクティブマップ | Leaflet, 国土地理院API |
 | [natural-japanese](https://github.com/ymtezo/natural-japanese) | AI文章の機械検出 Agent Skill（sudachipy形態素解析による決定的lint） | Python |
+| [conlang-analysis](https://github.com/ymtezo/conlang-analysis) | 人工言語「Veya」の設計→生成→計量分析パイプライン（音節規則・Zipf・コーパス統計） | Python, R |
 
 ## Stack
 
